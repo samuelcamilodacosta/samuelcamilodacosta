@@ -7,7 +7,7 @@
     I hope you find what you want here.
     
     I have many hobbies.
-    I like playing guitar, listen music, studying phylosophy, watch random documentaries, animes and series.
+    I like read books, playing guitar, listen music, studying phylosophy, watch random documentaries, animes and series.
     I dream of knowing one day this immensity of lands that we call the world.
     
     Having the ability to learn is a blessing.
