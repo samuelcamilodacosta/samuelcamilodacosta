@@ -11,7 +11,6 @@
     I dream of knowing one day this immensity of lands that we call the world.
     
     Having the ability to learn is a blessing.
-    Dedicating yourself to learning is a gift.
     Dedicating yourself to learning is your best gift.
     Sharing knowledge is the pinnacle of wisdom.
     
