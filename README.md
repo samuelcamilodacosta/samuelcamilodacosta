@@ -1,4 +1,4 @@
-  # Hi, guys. Welcome to my GitHub.
+   # Hi, guys. Welcome to my GitHub.
   
   
     My name is Samuel Camilo da Costa.
@@ -17,3 +17,7 @@
     
     "All things excellent are as difficult as they are rare." - Baruch Espinosa
     "The reading of all good books is like a conversation with the finest minds of past centuries" - René Descartes
+    
+  # See you later, my dear friend.
+  
+  ![seeyou](https://user-images.githubusercontent.com/75193747/139394119-c5a3ff99-b9ea-43c1-8b6a-4ee1e16de0e8.gif)
