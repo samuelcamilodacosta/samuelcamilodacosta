@@ -3,7 +3,7 @@
   
     My name is Samuel Camilo da Costa.
     I'm a technology lover. 
-    I always like to be learning new computer languages and solving problems.
+    I like to be learning new computer languages and solving problems.
     I hope you find what you want here.
     
     I have many hobbies.
