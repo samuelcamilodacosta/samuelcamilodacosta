@@ -17,10 +17,6 @@
    
    > "The reading of all good books is like a conversation with the finest minds of past centuries" - René Descartes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelcamilodacosta&count_private=true&show_icons=true&theme=midnight-purple)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcamilodacosta&layout=compact&theme=midnight-purple&langs_count=6)
-
   #
   # See you later, my friend.
   
