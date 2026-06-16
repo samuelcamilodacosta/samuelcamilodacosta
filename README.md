@@ -68,7 +68,7 @@ I'm a Software Developer building real-world solutions!!
 ### 🌐 [Portfolio](https://github.com/samuelcamilodacosta/portfolio) — [samuel-dev.com.br](https://samuel-dev.com.br)
 Personal website built with **React 19**, **TypeScript** and **Vite**. Features PT/EN i18n, light/dark theme, lazy loading, SEO with Open Graph and 100% test coverage with Vitest.
 
-### 🏪 [Sistema para Lojas](https://github.com/samuelcamilodacosta/sistema-para-lojas)
+### 🏪 [System For Stores](https://github.com/samuelcamilodacosta/sistema-para-lojas)
 Offline desktop app for retail stores built with **Electron**, **TypeScript** and **SQLite**. Includes sales POS with barcode reader, inventory management, analytics dashboard and 157 automated tests.
 
 ---
